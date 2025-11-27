@@ -13,9 +13,9 @@ class SubsequenceAutomaton(ABC):
     _transitionTable: List[Dict[str, int]]
 
     @abstractmethod
-    def Compute(inputStr: str) -> bool:
+    def Compute(self, inputStr: str) -> bool:
         pass
 
     @abstractmethod
-    def GetInfo() -> AutomatonData:
+    def GetInfo(self) -> AutomatonData:
         pass
