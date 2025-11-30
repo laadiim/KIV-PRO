@@ -1,0 +1,201 @@
+===================================================
+Loaded text statistics
+---------------------------------------------------
+Original string length: 7585
+Alphabet size: 80
+Valid subsequence   : nu p.
+#incud sah
+ndo.
+ude<.h#uetd
+uesb.h# tg
+efiT10
+n 0000den MIN-0eneRAL                                                 sacla(&ton_ck)             rknco;              tons = L                u1                                }
+een _UNDFIND
+ S O,  SNH,CO,,
+ SN S,
+TAN ALG
+L X
+} n;
+tpe nm  ODEFDAD, B, MUIV W}aors;
+it g_or( e)if eatr= Ner0;
+
+  ((e-,
+   r
+ f(sr(ot->le-))  tun;f (rpoperr-vae"  tr opvlu) rn V;!tc(oeatv"))
+ er O u _DE;}
+tevl_pea( _noke *ecnr ,    Tenu    e 
+e1
+  do
+  uaed UL
+  / iy cffbr L
+ tu(ber L tn  i NL retn0
+ il=NUL)
+  n 1tdnv dt) npr  \  r0
+  um ttosb>uepr
+ et '0   r;
+
+ t=eop
+
+ sitc te
+D   r m1 u  brea s UB    n nu2;
+ra
+ aUrnm1nm;    eak;
+  eV: i2    NAMER; }e   =  nu;ba
+ cW
+ = p, 2);
+  dlt: et_NFE; ek;
+
+ (r =OR)  sly OKN_MB;
+ sritlt>e,%d NOTAMB);  r } r=X ?A(  Nr ru-eKBErntf(r-"f"  et
+ttncin(T * ityk*/i(nNLet
+ftcmv ") uS i !uc-ae, o ern  if!cmpfu-v "t"urA  (tcmp(n-le tu;
+ if rmfcl, tn !tp(unc-vueh") rtn !r()ru A;
+ rmfun-va,as  etsrp(c>le, a
+ u ifru-vl"bs")eurA
+stmfn, l rr ;icpcv "")
+  L
+ (!mp(n-aue")    
+ u_NFINE}
+ntlftio(oknnur,enuncTo){
+ nye= dbln ; cr nU  be = 
+  *nyceck f(r == NL  rtri( L) t;t == NU  ur 0
+   = oal nd;
+i !\  rt0;
+ fye e_nu)
+h(t
+ caeN:
+  in) 
+
+O
+  cs)   re ce N    tam
+   b
+  r =nn;
+bk
+  cCO  r  on);    beaa:
+   (nm);
+ be asA i -nm   {
+  =O asinu br
+as O:ifnm< -   1
+    =NAM
+ e   r=cnu; ;
+a:
+ =(m   ceA
+fs(u; ea  c num=)   ANUE e=loum
+  a;
+
+ ce   if)    = B; le  (u
+ ;  E:   pn) ba;  :  euDFIE ;} f BER 
+  st-yeTENBR s(reut"TABRur
+= MA MX MN r);sl->yp =TKENB sneslt>,%f  re osoeokna,isuol us{oketesc;
+scktc= L e cet = NL
+
+  Ton_ N e *m1 NL;u L
+can U dubl   itrnunc_tt  t__up; int i0*siy eck iftkn )  rr 
+if (u NL){
+ en }
+ ks_co<0  rtn  *eu =NTtken retusits_utifon_taL)  etr 0;}
+ ton_y=Toe*llc(zofn)* onsn  emcpto_cy earsizeoenon_un
+
+o 0itsnti++  cun=oke_c;
+  urty==N_    iftap(ccen {  rr
+    bk    ie }  re>tp =KEARL    crt-y=ENUMBER   nt(en->u", ;  f(kphtntkcr) {    rr=;   ak;   nn      urntye E_UAYOAR
+   tknnt=_pot_sa;
+f(ok_onp=    err ;    k
+ 
+   nud(_p->v &dt
+  (pr '0' 
+    rr  k 
+  n= -msrtften_olu,"nu)   f_(ke_sta ton_p) = {   err=;
+   }
+ conu   
+fuetyp EFNCTI  tke_o_o sa_p_ak toe_on_p L)   
+   b
+ } efntn(k_o, r_top     r =
+    brk    i_stknk, __o    ro=1    a     ue   (urp  OKEN_BAOAO   u= kok_c    u =t_te_t  nu=NUL){
+   r = ;   bra;    
+   panum,nm2,rr nm)=0{   err     brk  }
+     (sakp(tok_c num) { rrr 1    eak
+   }   cni   }
+ 
+ ior ;  t_ =sk_p_k)if(__o  UL
+ FREL ia_peekt !L _L
+  m to(ton_ope &t;if*ep = ' EAL;
+
+ *sl nm; rtkp)
+  ak_cler(&on_sck retn
+
+Invalid subsequence : jjjjj
+===================================================
+
+General Automaton (SA)
+Vertex count (no. of states):       7 586
+Edge count (no. of transitions):    518 163
+Default transitions:                0
+Explicit transitions:               518 163
+Default ratio:                      0%
+Explicit ratio:                     100%
+Saved against full automaton:       14.6298%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=2)
+Vertex count (no. of states):       7 586
+Edge count (no. of transitions):    30 903
+Default transitions:                7 525
+Explicit transitions:               23 378
+Default ratio:                      24.3504%
+Explicit ratio:                     75.6496%
+Saved against full automaton:       94.9086%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=3)
+Vertex count (no. of states):       7 586
+Edge count (no. of transitions):    35 986
+Default transitions:                7 487
+Explicit transitions:               28 499
+Default ratio:                      20.8053%
+Explicit ratio:                     79.1947%
+Saved against full automaton:       94.0711%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=5)
+Vertex count (no. of states):       7 586
+Edge count (no. of transitions):    41 071
+Default transitions:                7 521
+Explicit transitions:               33 550
+Default ratio:                      18.3122%
+Explicit ratio:                     81.6878%
+Saved against full automaton:       93.2333%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=50)
+Vertex count (no. of states):       7 586
+Edge count (no. of transitions):    118 017
+Default transitions:                7 547
+Explicit transitions:               110 470
+Default ratio:                      6.3948%
+Explicit ratio:                     93.6052%
+Saved against full automaton:       80.556%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Alphabet-Aware Level Automaton
+Vertex count (no. of states):       7 586
+Edge count (no. of transitions):    30 907
+Default transitions:                7 525
+Explicit transitions:               23 382
+Default ratio:                      24.3472%
+Explicit ratio:                     75.6528%
+Saved against full automaton:       94.9079%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+

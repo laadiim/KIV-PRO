@@ -1,0 +1,81 @@
+===================================================
+Loaded text statistics
+---------------------------------------------------
+Original string length: 20
+Alphabet size: 10
+Valid subsequence   : fgvcsg
+Invalid subsequence : eleiy
+===================================================
+
+General Automaton (SA)
+Vertex count (no. of states):       21
+Edge count (no. of transitions):    126
+Default transitions:                0
+Explicit transitions:               126
+Default ratio:                      0%
+Explicit ratio:                     100%
+Saved against full automaton:       42.7273%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=2)
+Vertex count (no. of states):       21
+Edge count (no. of transitions):    55
+Default transitions:                19
+Explicit transitions:               36
+Default ratio:                      34.5455%
+Explicit ratio:                     65.4545%
+Saved against full automaton:       75%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=3)
+Vertex count (no. of states):       21
+Edge count (no. of transitions):    63
+Default transitions:                17
+Explicit transitions:               46
+Default ratio:                      26.9841%
+Explicit ratio:                     73.0159%
+Saved against full automaton:       71.3636%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=5)
+Vertex count (no. of states):       21
+Edge count (no. of transitions):    75
+Default transitions:                17
+Explicit transitions:               58
+Default ratio:                      22.6667%
+Explicit ratio:                     77.3333%
+Saved against full automaton:       65.9091%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=50)
+Vertex count (no. of states):       21
+Edge count (no. of transitions):    123
+Default transitions:                0
+Explicit transitions:               123
+Default ratio:                      0%
+Explicit ratio:                     100%
+Saved against full automaton:       44.0909%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Alphabet-Aware Level Automaton
+Vertex count (no. of states):       21
+Edge count (no. of transitions):    57
+Default transitions:                19
+Explicit transitions:               38
+Default ratio:                      33.3333%
+Explicit ratio:                     66.6667%
+Saved against full automaton:       74.0909%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+

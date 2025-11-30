@@ -1,0 +1,81 @@
+===================================================
+Loaded text statistics
+---------------------------------------------------
+Original string length: 10000
+Alphabet size: 4
+Valid subsequence   : cctaggccacaagtttcggcagctcgctccgacggtgcatagacgtcctaatcttgtctgcaagctcagctactacactcagagctgcatggtagttcagttgcacggttcctagatacattatgtaaactaaaacctcctccctattgagataaatacaagaccgctaggagagcgtattcctcggccttgagtttcgcaacttgtgccgaggaagcttgtatgggagtccctttccttccaaaaagcatggtcctaaatccttaacttgagtgtgccgcggcgattcgtgtataattatttatctctggttttggggagaaaacatttgcgatggtagcatctgctcggaagcctgatattcgtaatagaaccggtgtcctgcctttacctacggtctagcaccagcgtggtcttcttagataccaagtcttataatcctgtgtcgagagatcagccgggctccaagtaacttgtaatgtagctgcactggttaaaaatttgtgacaacgcggagctccggacgaggttcaccatgaccatcccatggggaggagtgcgccttggtaaatagagagcgtaagacgaaagcgaaaggtcacatctaactctcattcattagtatatttccgtcttgcgaagagacgcctcctcaagtaggtagaacaaccgtagccgtgggcccaccatactaaccgtgattaatatggttcaaacgttactcactcagaatttctatccgaaaactcattcgcccggacccagttacaattaaggcacgcgacttcagcttggattcgaaacgaagtcacgacactccgcagggaaaaagctatctcaccagctgggaaagcgccggaaaggatttacaacgtgtcctatctgagccgtgtctgtaatccgacgttgccattcacttgtccaacattaagccgggccttgagttaaccaatggggggccctacgcccgcgtattatttagcaaagttggcttcaccacgattatctcactctcgaattcggaattcaatactaatttacctctcgtcagaatataacgaaaaacacataatctacattacagctcagtttcagattaggtggacagtagcaacaacagggtaatgccaatttccgcttctgagcgtctggatgaggaagcagcgtgcctgtgtaaagctggaactcatacgcggatggtgtgcaggcgtccaaaaatcacacgaattgacccgagagtaccttgcctccacgatatagatgtgttcacgagtgatccccccagaacccctcatgaatacagactcctgtaacaggataacagcgctagagccgcggatcacattggttaaaagaaatacaagcgcattgtatcacactccatcggatacattaaagattcgctatccagcttactgaaagcctatagatatatttaaaagaagggtgacgggactaggcggcaccgaaagcttgagcttctcaacatcttccgccctcggcttaagtgcaacttgacgaagcctaggccacagaaatctagagcgatgtacgatatagcggataggcctcagcaccagcgtggtgtgacgttctatcgtcaagagtacgctcctgtacagggtgtcggacgtccaattaactagactcagctcagcaattcgtatcgtgagatgctaaagcgtgatttaacaccccctttgggtacttgcgctgtgcaaaagagtctgtcgcgattgacgaatgtggacaggggcttgtccgagccacggtgataaaattcacatttaccgcgccgtctggactcacgaaattcctcgcgcacgaggactggaatgagaccccgacttatgccaagaggcgttaacggagtagcgtcgatagctctcggtgcccgcacacttgcggatcttggtactgacgaccaatcaacaaattctctatggaacggccgaaaattcgtattgtttatcgtgcaacaattaaattgatgggtggtactacctgagaaatacagggaggaaatacttatctcaaccgtgcctgccatcctgacatgcatgtacgatggcgaaacgtcgatgggtttctcgctctccggtaggttttggtactaactaagccggtcccgacagatggatatagcaactcaatggcaagccgggcgaccaaatcagaatacgccgttcccatctcttatgtgaaaacgctggactgggatacttgagtctcatatatttttccgcagcggtctggggtagggtatcccctcgagtataaactagctgcttcgatgaatgagatgcgcttctcaccgtattagattacccacgacaccctccgacatgagtcctgccattaaaaggagcacgtaagggtggtacccactctgtccgttctaaatcgtcgtctatatctcgtacagatggtcatcacagatgttaagatgcaaatcactggcggtctgccctacaacgatgcggtgcgaaaaataaattatttccaagcatttattcctcaatataacttggttgtccctaggggcatctacttcgaggcggaaaagcctgttcccgcgacagtaaaggtgggtccaactctagatggcattggtccggtctttaggacaagcgagtgagcacatacgcacgttgagtataaagtccgagtctctatgtaacagttctccgaagacaattatcccccatatagcggtagggtcacgatctagcactacagaggcgtaacacactcagagacaggtgaaaaatcggagctcacactcgctcgtcttacgtttgggtgcgccccgtataggctgggcgttcactgtacgggctgatacacttagcaccttaaaagcgtcgagcggtaggtgtagaagctctagcgggatcctggtactgccgccccatgacagcaagcacatgatacagtgaacgtagactgacatttgttgtcccacgcacgaaagaccaggcatgtacgggaaaaacaggcccatctacgtctcccgctcaacgttttcatttacagcacaacctacgggtgaatcagcgatgtatggcaaaggattccagacactgtagctccgcacagggactcaactgtaggacttagtcgctgtagccgcgtattcgagtggtctaaatatcacgtgccgacaagacaacgtcggctcgaaaccggtatcatttctcgctgaaaagccaccataagaagtattcttttcgggaccgcgcagagcggcctatggcagggggatcaacacgaaacgattttatcgctacgggccctgcctggtccgtaccagcccttgcatagcgccaacta
+Invalid subsequence : vmlvf
+===================================================
+
+General Automaton (SA)
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    39 993
+Default transitions:                0
+Explicit transitions:               39 993
+Default ratio:                      0%
+Explicit ratio:                     100%
+Saved against full automaton:       0.0375%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=2)
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    26 879
+Default transitions:                7 501
+Explicit transitions:               19 378
+Default ratio:                      27.9065%
+Explicit ratio:                     72.0935%
+Saved against full automaton:       32.8159%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=3)
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    28 778
+Default transitions:                8 889
+Explicit transitions:               19 889
+Default ratio:                      30.8882%
+Explicit ratio:                     69.1118%
+Saved against full automaton:       28.0694%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=5)
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    31 695
+Default transitions:                8 001
+Explicit transitions:               23 694
+Default ratio:                      25.2437%
+Explicit ratio:                     74.7563%
+Saved against full automaton:       20.7783%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=50)
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    47 420
+Default transitions:                9 801
+Explicit transitions:               37 619
+Default ratio:                      20.6685%
+Explicit ratio:                     79.3315%
+Saved against full automaton:       -18.5263%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Alphabet-Aware Level Automaton
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    26 882
+Default transitions:                7 501
+Explicit transitions:               19 381
+Default ratio:                      27.9034%
+Explicit ratio:                     72.0966%
+Saved against full automaton:       32.8084%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+

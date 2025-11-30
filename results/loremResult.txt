@@ -1,0 +1,89 @@
+===================================================
+Loaded text statistics
+---------------------------------------------------
+Original string length: 10011
+Alphabet size: 41
+Valid subsequence   : Loripdl it ctetdpimncsr t bs stilsimil t amcoptotrdmet slsdaiaccniuuiseffcr nlaarm d  Nulafirsnaet ais eleduicpoeelmtcumta errtnilmcpon sapsne ulacoitest. oer,rvtau ,i lmri.aifiisnet aet  rsveh trluc, gravid arNllaaiia a eu ime
+rm isols  scengitia u olo,conquatc eis nrit.de slnriustsolicu rs rer leu tuu uie.ele ctlestriame nc. Doecn et nif n. tuiiasullaoer isaeceerntumas aca cer, idsi aeS cfetesmo Spseat vae gtiuta ma emu ius,efilisr Maisfega,r luiDveilu null,e oqa urs sclue etumesaen,peuc i lciegtle.iim delarius i.N m lt,maismoenootist.iut suaeitlanmoti elut pelcs  fi rruut us m oe alqug vitfget, idlen bro.Vimsn i rsiuls vl eDncn melnaet t q lVetiu  r.liu an tsuesls vrte
+
+llenesqeae d lue pent lt liaCrafriamsPlsqleiercqmuilacni lio pibeseiuuus qus isuseetesut lfed Anrm nbqiseeitmllmlsbnd dac.Seturirsathdictfegt. seeoi, nticuthMrs mp fibuamcprecuiesiu ecNucn,mpeo , iusolav.
+ni fnlpm icuedtir e um Num r sscisoaa imtu lore,  aisooienrnau  resen liletgtelenuuesi frmn  oursaco ia eicliul ee Aualsd,i svli ceuin.vlta llaae.usss artmtsetc n ce rci . uspensemris gers. N prta tiereogn luvilil,sedoem   imperiepur,tm ept De va,r vod litun niexstasieerfsnaaciSd sutinula uD ianibv tmplotiUtt ue Sui md ia m gtsits  Nul enet,e nr lit, sm nbsseqepemla ci Cacusnsmnnece se,iervt t c,puie ul nig vtai vn uctamtu es cetl at,atitlu Curabu iisisbe. aurusct deffie Meaicdtceseeaaniipeai
+tegrpa ms quisnuatpr bh equiiavar eug.Supega,sagts u dtnbu ror.Veslume orductr alq aiuoeiumuisattsniaib.Ul lcusa itf m etqucdenumga actdiam rnre, ente odasap.Susesem uie i rt in,eesn asa
+ml l a raiiapi. oerlaet licuindo ,grva qamecdm odsusct ilacei hstuteaelmlsuas.silm ee m rana eanue. Sni  tu va,trt a,m tluree ui sui peilenuegeatspt  loeet uisrn onu  lrcleenmvlNilre eaamiultice getars eenom u en ovli einr pvru o ncinmu.Mus qum rgii.cua,ieet seme,aum vnenti juEt ime u.nemrluncdcu , eis ququm updnualo umummamsCircmnauu uriet nti tror. uluan ualen critnvira litom, egsnl. an usseutmp ivetu ma itorcdniu eclisi lero tonPn lobseusnsamet tini overtnie efd rm lir oe more ui o u. auildi us ncrtfeua. ntge eanalisiudeetoeVluda a lsoole nni una , perl aopu aera m.Vem e ipsmrmsiacbs rlututtreuri rae entesqeulmonm velcocr  usctet.  uulcingince it .sc ragi.eehc e od,men hcnvls .que iquilinQacas q iu jus ubiu ee iso gciqutrutvlivtac Moi ds et us vamuirmoru prta,per us
+ednofene ucertci demlibo nnae aliudouni Iulnlt sa t rru.ocusilts lsnpratiaitilrt  i, nnnduectsqeFsevlect urice efimsi te lalinibhcuas eiulumt eanc pcete pma mntr, ust pact ct le ashcil,uiatiisl e jso euu otetiq icm ob.Psenteli, ureulcul,vptte onctia.Lompsdoloria, onetrasciet Mauilsore, lqet sbuuconetumloeaiaiviv  nditeele ximc olutlti metseu ri.rin ia a qofaus rh.b etum reogta,  adt frt.msaitisr er scsu li cserec. euurie oboiSupspt ui ndrr anaeu cohndrmi prs n eousssseerscpi ta vileota r, beblbrtipsutcdoeb elt.sals ua oIgr aesutd ciiaalqasnisus, llt a, n els.urbendx rivhul rosr spudism gu guDique  simetg ie unQi is onaescip,rlas ntgri cni. Ieplara os acenturu o edaeamt nd.aqm nl l euebdi tcciiscen
+g lap autpsre. uifciissgravdlrce u.Aluatvoupt.Utvlpe,mielieeum,plriequi efiiuesd. ctuiaclis.trvu uicu emp,uliur,s metnbusoraa man.iq dsmoi c otetmo ocique saptmricm Quue euoa eqe oe Maineleltlleiiunsi d sepr ruScoblnieni ulvnabhfsqu.Dlt, vis,o vei bu iet meua mag Nam f nenihius
+Invalid subsequence : zkyyy
+===================================================
+
+General Automaton (SA)
+Vertex count (no. of states):       10 012
+Edge count (no. of transitions):    390 378
+Default transitions:                0
+Explicit transitions:               390 378
+Default ratio:                      0%
+Explicit ratio:                     100%
+Saved against full automaton:       4.9095%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=2)
+Vertex count (no. of states):       10 012
+Edge count (no. of transitions):    40 606
+Default transitions:                9 852
+Explicit transitions:               30 754
+Default ratio:                      24.2624%
+Explicit ratio:                     75.7376%
+Saved against full automaton:       90.109%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=3)
+Vertex count (no. of states):       10 012
+Edge count (no. of transitions):    44 883
+Default transitions:                9 885
+Explicit transitions:               34 998
+Default ratio:                      22.0239%
+Explicit ratio:                     77.9761%
+Saved against full automaton:       89.0671%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=5)
+Vertex count (no. of states):       10 012
+Edge count (no. of transitions):    52 447
+Default transitions:                9 929
+Explicit transitions:               42 518
+Default ratio:                      18.9315%
+Explicit ratio:                     81.0685%
+Saved against full automaton:       87.2247%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=50)
+Vertex count (no. of states):       10 012
+Edge count (no. of transitions):    138 563
+Default transitions:                9 801
+Explicit transitions:               128 762
+Default ratio:                      7.0733%
+Explicit ratio:                     92.9267%
+Saved against full automaton:       66.248%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Alphabet-Aware Level Automaton
+Vertex count (no. of states):       10 012
+Edge count (no. of transitions):    40 610
+Default transitions:                9 852
+Explicit transitions:               30 758
+Default ratio:                      24.26%
+Explicit ratio:                     75.74%
+Saved against full automaton:       90.108%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+

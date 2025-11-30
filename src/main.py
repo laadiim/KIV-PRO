@@ -1,3 +1,17 @@
+"""
+Main runner for testing subsequence automata on text loaded from a file.
+
+Given a text file as argument:
+    - Read the full contents as the base string S
+    - Construct several subsequence automata (general, level-k, alphabet-aware)
+    - Generate a valid and an invalid subsequence
+    - Evaluate acceptance of both
+    - Print automaton size statistics
+
+This script does NOT modify the underlying automaton implementation.
+It only adds I/O, sampling utilities, and clean reporting.
+"""
+
 import random
 import sys
 from typing import Set
@@ -6,87 +20,161 @@ from AlphabetAwareAutomaton import AlphabetAwareLevelAutomaton
 from GeneralAutomaton import GeneralAutomaton
 from LevelAutomaton import LevelAutomaton
 
+# ---------------------------------------------------------------------------
+# File utilities
+# ---------------------------------------------------------------------------
+
 
 def read_text_file(path: str) -> str:
-    """Read entire file as a single string."""
+    """
+    Read an entire text file as a single string.
+
+    Parameters
+    ----------
+    path : str
+        Path to a UTF-8 encoded text file.
+
+    Returns
+    -------
+    str
+        The file contents with surrounding whitespace stripped.
+
+    Raises
+    ------
+    SystemExit
+        If the file is not found.
+    """
     try:
         with open(path, "r", encoding="utf-8") as f:
-            text = f.read().strip()
-            return text
+            return f.read().strip()
     except FileNotFoundError:
         print(f"ERROR: File not found: {path}")
         sys.exit(1)
 
 
+# ---------------------------------------------------------------------------
+# Subsequence generation helpers
+# ---------------------------------------------------------------------------
+
+
 def generate_valid_subsequence(s: str, length: int = 5) -> str:
     """
-    Generate a random *valid subsequence* from s.
-    Always valid, because we choose characters in order.
+    Generate a random *valid* subsequence of the string.
+
+    The function selects indices in sorted order, ensuring that the
+    result is always a subsequence.
+
+    Parameters
+    ----------
+    s : str
+        Base string.
+    length : int
+        Maximum length of the subsequence.
+
+    Returns
+    -------
+    str
+        A valid subsequence.
     """
     if not s:
         return ""
 
-    indices = sorted(random.sample(range(len(s)), min(length, len(s))))
-    return "".join(s[i] for i in indices)
+    chosen = sorted(random.sample(range(len(s)), min(length, len(s))))
+    return "".join(s[i] for i in chosen)
 
 
 def generate_invalid_subsequence(s: str, alphabet: Set[str], length: int = 5) -> str:
     """
-    Generate a guaranteed *invalid* subsequence:
-    Choose characters NOT present in s whenever possible.
-    If alphabet fully matches s, generate a character sequence impossible in order.
+    Generate a guaranteed *invalid* subsequence.
+
+    Strategy:
+      1. Prefer characters NOT in the string ⇒ always invalid.
+      2. If all alphabet characters appear in the string, create an
+         impossible repetition pattern (e.g., too many copies of one symbol).
+
+    Parameters
+    ----------
+    s : str
+        Base string.
+    alphabet : Set[str]
+        Characters present in the base string.
+    length : int
+        Desired length of invalid subsequence.
+
+    Returns
+    -------
+    str
+        An invalid subsequence.
     """
-    missing_chars = list(set("abcdefghijklmnopqrstuvwxyz") - alphabet)
+    available_missing = list(set("abcdefghijklmnopqrstuvwxyz") - alphabet)
 
-    if missing_chars:
-        # Use characters not in the string → always invalid
-        return "".join(random.choice(missing_chars) for _ in range(length))
+    if available_missing:
+        # Use letters guaranteed NOT to appear in s
+        return "".join(random.choice(available_missing) for _ in range(length))
 
-    # If all letters appear, generate an ordered impossibility:
-    # e.g., pick a character but repeat it too many times
+    # If alphabet covers all letters: force too many occurrences of a character.
     c = random.choice(list(alphabet))
-    return c * (s.count(c) + 3)  # more occurrences than exist → invalid
+    return c * (s.count(c) + 3)  # impossible count
 
 
-def main():
+# ---------------------------------------------------------------------------
+# Main execution
+# ---------------------------------------------------------------------------
+
+
+def main() -> None:
+    """
+    Command-line entry point.
+
+    Expects:
+        python main.py <input.txt>
+
+    The file is read, automata are built, and both a valid and invalid
+    subsequence are tested.
+    """
     if len(sys.argv) != 2:
         print("Usage: python main.py <input.txt>")
         sys.exit(1)
 
     filename = sys.argv[1]
-    string = read_text_file(filename)
+    text = read_text_file(filename)
 
-    if not string:
-        print("ERROR: Input text is empty.")
+    if not text:
+        print("ERROR: Input file is empty.")
         sys.exit(1)
 
-    alphabet = set(string)
+    alphabet = set(text)
 
-    # Generate test strings
-    valid_subseq = generate_valid_subsequence(string, len(string) // 3)
-    invalid_subseq = generate_invalid_subsequence(string, alphabet)
+    # Generate testing subsequences
+    valid = generate_valid_subsequence(text, max(1, len(text) // 3))
+    invalid = generate_invalid_subsequence(text, alphabet)
 
-    print("Original string length:", len(string))
-    print("Alphabet size:", len(alphabet))
-    print("Valid subsequence   :", valid_subseq)
-    print("Invalid subsequence :", invalid_subseq)
     print("===================================================")
+    print("Loaded text statistics")
+    print("---------------------------------------------------")
+    print("Original string length:", len(text))
+    print("Alphabet size:", len(alphabet))
+    print("Valid subsequence   :", valid)
+    print("Invalid subsequence :", invalid)
+    print("===================================================\n")
 
     # Create automata
-    genAut = GeneralAutomaton(alphabet, string)
-    levAut = LevelAutomaton(alphabet, string, 2)
-    awareAut = AlphabetAwareLevelAutomaton(alphabet, string)
+    automata = [
+        ("General Automaton (SA)", GeneralAutomaton(alphabet, text)),
+        ("Level Automaton (k=2)", LevelAutomaton(alphabet, text, 2)),
+        ("Level Automaton (k=3)", LevelAutomaton(alphabet, text, 3)),
+        ("Level Automaton (k=5)", LevelAutomaton(alphabet, text, 5)),
+        ("Level Automaton (k=50)", LevelAutomaton(alphabet, text, 50)),
+        ("Alphabet-Aware Level Automaton", AlphabetAwareLevelAutomaton(alphabet, text)),
+    ]
 
-    for name, aut in [
-        ("General Automaton (SA)", genAut),
-        ("Level Automaton (k=2)", levAut),
-        ("Alphabet-Aware Level Automaton", awareAut),
-    ]:
+    # Run each automaton
+    for name, aut in automata:
         print(name)
         print(aut.GetInfo())
-        print("Valid subsequence accepted?   ", aut.Compute(valid_subseq))
-        print("Invalid subsequence accepted? ", aut.Compute(invalid_subseq))
-        print("===================================================")
+        print("Valid subsequence accepted?   ", aut.Compute(valid))
+        print("Invalid subsequence accepted? ", aut.Compute(invalid))
+        print("===================================================\n")
 
 
 if __name__ == "__main__":

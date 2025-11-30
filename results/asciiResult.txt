@@ -1,0 +1,81 @@
+===================================================
+Loaded text statistics
+---------------------------------------------------
+Original string length: 10000
+Alphabet size: 256
+Valid subsequence   : ñ»ã¿i␂¾®␟pÌ5bvÀs␂×B¶Ç␙4æ\5öQá␗´!?Û␜Ç␟Þ␍,␜·!ø¥{\jåV=f2¹°`␏V%ð$Ä<©M␕Pò´®hÊ¹␐æ¾␋j"␘³öe_ÆÐd»:ÛPÄtÑÆzîØIÚ³␊/␎Týb[ùÐÒ␛3 +²;\å÷ú6ú␛ÍÀì^ î$tp±a¢[(]7É␄éGo␗Þ«¯l·¢â␗¨ j␍ú³±11␍¤␊ÿ2Jà␉␓õë¬␚,µ®␂¤¼(␝Ùu~Nç.ÌCk␍í~êÊ␃i"Æ¶ÓB;ß␏ûç[ÔPÞ␛7␐ÑºãwJ{6k·¢3xÔ'±Ï³ÎyËí¡hÈ<.0¾At#`Ê␟ ¡␞/*cA<ì³U¬<ÔÅz¡òî=?gxÀYA½§«­Â`ôVñ5ìû¾QÌ␞¬!␐í␋¹␚µ§*T␕$£·Éâô{UÂ␁kñíÀÙã␖z@eôDHË␑¥`.Á:Øl?-^xm3zà␓LÊ␊t␚2í␅␕~8d^;␈!gâ%␈␓æùøªKw¦<?␟¹ß␂Ks%␀`¹␇àHÆ ú¶BP␔(g\óAIqó␖>â\Üñ¦ZÄ␗Üà'ÂúJ␟␚mfbn@K2éWqµËó*ÌrdvB3åÈ¸âjWmwØ­ª¶ôp÷½2*åÞ%µ²¨␌5'õÛn¡S¾␗␐a&».ÌxÎæ§␚¯ø<%m¾␟0g;y9¾␟␅])þ^÷␈f␉Îøfg␘Ö␞XÞüÔE¦<Úxh#ÆÚ÷Yqß␜¿Þg␇ü5␆␉({Qe7ºpé¡ÕóÐÏgr%ç%ùÙ¯º2¥>␛%^␅êÈÈÀÃÊþuÁ␗ÑúÖß%²­ùñ␂␒¡2ß(N ·D Îªo4ÜÊPÇ ¥×04©oÍj9␐º¨␔Z;ÅP8ð´qYréULëQM¥üáóEC²TDËÅ/«fÈìE`ú9+i#␖8È13ªîØÁ'L␌Ò␗{W¡.æitÆîl;QR␂<Fó␅␄ióVæè¸sS<"°:␊Ñ°␔ô-úÃ␘C␏␗S␚Ê␄©8ìG>ûÅ¨ú°«èóS␄ÙáæJ␑8Ü@␖ù␋)!~a­Æ␃f ␗;ü»êE~3ï=[]+¼«HÒ␜OhjL␌ÒmFøßI␔!x*oFzlö`␌2␑f¾ÐoÖ␅P␃¶[£lQN[BS-[/Lw:#␋o ½íÿEQðg]@øf£uW-5ÜÃ*¥Ñs9¹çübÛ¼âÞ␁$f9öÏÎFF␜©®␀ûA␟␖B=)4#ß§sn$Á␜␚␈Ë1␈ô`XÏl«␈éàGÝàÏÔ²Ã␗úÇ¤␔å26³$Þ_~-èJN␃j»&£¶ñéÓì ûNØ«p3)7Ø␡a°·ùØD␖ôß␝$Ä¤É␈DÀ'Shú%¡,½␎¡×b-Ô\«R·␌c+º8ºÁhýñ␙M$ó%6ó"Ù¾³␍d'oÉhJfÄ»u Û␜õ@+OË`VË.[␡ýo J␋Cqåäxð©6p␟␟t`␉6kª//þ©q¯␞q§¼ ␙#³÷2­ÿ¢␐xaÎ©X␉;ö>␞/G$§␀Ì␉^Ê!r␒ æ°°x␗@}N`H°Ê,ÿeÝÇ*³␈r×èA{'R7]7©îÜ␏␇Q)ÎÇñí\Ú?AÛ␎Ab␛␛ãºe õ?␕ë␈q|1=r/¼:<&ø*È%Ô))juM®e®␂␍µàÖ6␚°õÃ¹ú¿°l␓Ë÷x©½␁8␗¤á]Æ␌ÝNæ␇<äõ¯ç«¾Í¥ 2␝2␅#ÿÖ␒@ øÂþÄná¶·␗]¦¯␋␇úõ9Å␀É¾␇ÖVìSs3g4²àV␉Ì0␓qÁÐ{ñgøY::␜8}␇Q␊ÃYzÏb\iô=þm4íMß?ñögßUj=ãÖÍ,°␉ô¹␊°.QAõ¿÷¡å ␗␟bJdÄfxªo␏Oð~/æº␂":êÚ«␆ü£èÆ␘Ù^UVX{␍³Ê2¦÷ÓK´␞ã␁Ï(¶²␓¾ÈÀ¤µ␝ð¯Q3S␅*3õ|ç¤␛Ê|¼␉B␏it`µÎ␇Jxì9ÀíÀ␅␊␁+b[ølR¦ç␄<+dCnÞ?␋␅␡MJ³@1␙%¢B␝½¤¶ú°å␎êê#␕Z␝ýª3ìÒað␋ÄÒb²y¿ /:È`ð¦␅yÖAÞP6|␝»␒$␙Ptuí␃S´º␛{ä␂~5Ý}Á␎÷lôe␉␖ï␄Ü¡>¢ç␘8UÓ.ie7YÌSáÃ³CxàRs5␓ï<^q0µÃlâgu=3¢Aj]Ââ?çÃ©Rìíë!¾Ó␞æ␒␝␊B@l\ÙCü␘ÿÄ␇ÁX5ç¢Æ␎(%¨¡RÞ6ê-␀´¨ÏéN␁lc␓¦ÙLëáX{x¦¹»è¾ª=âÚ@ì³¶ÂæëV©p,$:␇uÜm␇H␁␇ôéîC×Ò2Æþß©␊␐b>6¿ï¥+Kÿ"␝␀␄N|ÿ»Ü␀IÂo␋ÐÝéãLë7|w:}ÓË␙Oöxô␞|¹GÍP[Ì´ß¼'ÐâZï:©¢]´Ü␔·riø×n5· ÛR␎Øì§f␇sT>óáØÍ§ëqÄÃ×␝WòK.]ZAC:Ù¸Ö␒?(l§½4²+ÇUÌpsG¬ð␚«7¡␋␍æ¥ÝlZIà² y␕,âÉ#êz␐Õ£Y␝tÐzÌ®ã'÷ÊÈe±dL␂^Ñ¿÷l°N$ª#êî¨D±:Iºï␙M{e3ýú␞e␟;û␔ÁÆÍîSÇc6cÎ␛yÅËylÔÕÅñELË­WæO¸ÙT9oMö¢¯7␋␕␕¡QçòV"¸ë␎*,©G2[»å­}çà¤`))␙ OJwf®°u; ©÷ùê0ø]Å␡IT¾␔+2¡ÿdÏÐA'Ð®Ü{␁uQ^␛!?@À¤4e¿ÿ␚=␓ØõúJßÙ␕×Åú␐@ÇÛ³IÜÆ_5Ðû5.÷©Sìoë=␡öóÀsÒeLLÒÃ␃¢¼Ñ␂Y0 ªW=kÆ[#é@␙X±ÏYSyÝ-0␂Ó␝§¥OpMx3␁␇\¥hÈÛ␌ø␄üàÝ§±êLF\ODïj#¡=Ùn␄␆èS␌÷2¡Â␁×ÁCßs7lÉË␐ ±ì%ëÉ¾ïK␝g␊gà5Ë_µ!è Ò2âJ'Æ¤Ip3␓q1|e¹␅ÄÙ)¡ûÀÑ|␂`ð·èè␗v␔9ÂZ~8␜Tz2ä5¡␇=½␀sÂJàÝ␕!¼#ùDGñ␜|␓úaÖø]h6À␒îªiÃì*␒^öÙ^iûYØ$\␙ñÈ␛ºÆ]␁ å@\F ;␇øç²␎9#Ñ§ LçªÃE␏R^ûÞ␘ÈVÁ␞q£¨U´>␋ü␋÷␝IÅ½ö␗(òò¹r ·ãÎü]*@¯d«ByÜd␆KÛrÆo®ïêÔ|¸Û=␈R$#¸k␅S{^ç¨OÍ␇ª>ì°º␀%¥ì¶$á␓'DÎþ2ã¸§%Í0␓Nv␖«Wð¤õÅÅ$␂|¢à)Ö×Ç␅[õC¥xÐôÃôu(]UiúúXbtïXì»GºD¢Økù¥␞íÀ9ïÐõEÍÝ*÷µØ␒´*b8/t^_1␈½@.7`÷½ikâÿÊ␈h~*7vè}␡ÿ-iZ°Swü9TgdþÉv5¦ÉïÔ!k(IÁ:Ctº2Y8Yk"ÿobb^PkÞêç␇¸ö~¢Ä␞␛ZX1à¤î«␖éÁ$á¶{mL`7'\bÆ␡Ëk␐uÕ"Ö␓Öñ8␒ê±Úc®␌wóÑÄxCgìæ␄äfw9J␓I!␍¹,ntã0`8␝D¦␌␌×␁É¯ÌÓüóÊþÂü|öB!XQL¢¥ú␜ûé«¬ÉÞ¸␎ùç␎␚}¨6 Ù§`␟R|ÛìÒX/Ã¡¼<Õí␚Æúm␄x©3´-␒¶ÔÞP1öÜPUq2ùeIbhÒÝ␐È{q␏yôù␘QÍä$q¢²»␎␐Õ¢␑å´␈ºp¶␡Ç␍¸DÂ&ÌØ³␔Bi§Lî9¡H i.Ê|uLöpJ¸!NQ␑␐×<»+ìïÂ¶ýnðÕ?Ì~␕ì4ür(5␆␂J»=ë/|=\sÕU¸¶~Ô¯␓ð8%|␇Lë(T^~|2z␈ÎdhOXvî]␂5Aµ9Áf­ùqWB␗_T␀.¦µKWt`pÀ␕ \dE`ï+>¶íÛ-␘␅ý<␘þ!ðÍÇ<␗Íº␘)␖T␈␍Ï6Ë¦ïËVèÆÕV3ÿjÚ°ÒÌ}ëÓ␘'XÞó 2#îH_ýÃ³·:>}Ã¦þ^␈¢ö*RÎÚ# _N}VÌË¯Rì%§Qä_Éi␀­␊<ô␇á␑nCpü]:á®¨_?i>|=I"ß¶␈=6íD>¶Y␀æ?
+Invalid subsequence : AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+===================================================
+
+General Automaton (SA)
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    2 495 588
+Default transitions:                0
+Explicit transitions:               2 495 588
+Default ratio:                      0%
+Explicit ratio:                     100%
+Saved against full automaton:       2.5356%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=2)
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    57 431
+Default transitions:                9 961
+Explicit transitions:               47 470
+Default ratio:                      17.3443%
+Explicit ratio:                     82.6557%
+Saved against full automaton:       97.7571%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=3)
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    64 993
+Default transitions:                9 983
+Explicit transitions:               55 010
+Default ratio:                      15.3601%
+Explicit ratio:                     84.6399%
+Saved against full automaton:       97.4617%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=5)
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    81 493
+Default transitions:                9 985
+Explicit transitions:               71 508
+Default ratio:                      12.2526%
+Explicit ratio:                     87.7474%
+Saved against full automaton:       96.8173%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Level Automaton (k=50)
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    287 133
+Default transitions:                9 997
+Explicit transitions:               277 136
+Default ratio:                      3.4817%
+Explicit ratio:                     96.5183%
+Saved against full automaton:       88.7861%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
+Alphabet-Aware Level Automaton
+Vertex count (no. of states):       10 001
+Edge count (no. of transitions):    57 439
+Default transitions:                9 961
+Explicit transitions:               47 478
+Default ratio:                      17.3419%
+Explicit ratio:                     82.6581%
+Saved against full automaton:       97.7567%
+Valid subsequence accepted?    True
+Invalid subsequence accepted?  False
+===================================================
+
